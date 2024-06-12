@@ -7,7 +7,7 @@
 [![Linkedin: Kapirath Raina](https://img.shields.io/badge/-Kapirathraina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kapirath-raina-b893a2255/)](https://www.linkedin.com/in/kapirath-raina-b893a2255/)
 [![GitHub Kapirath28](https://img.shields.io/github/followers/kapirath28?label=follow&style=social)](https://github.com/kapirath28)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ther's more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> there's more about me...  
 
 ```java
 public class Kapirath {
@@ -57,7 +57,7 @@ public static void main(String[] args) {
 
 ###  Now playing on Kapirath's Spotify🎧: 
 
-[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=ajmcgxvc8x8850ajmq5ndomhf&cover_image=true&theme=default&show_offline=false&background_color=121111&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/ajmcgxvc8x8850ajmq5ndomhf?si=dd690a0906f94b2f)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajmcgxvc8x8850ajmq5ndomhf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=ff0026)](https://spotify-github-profile.vercel.app/api/view?uid=ajmcgxvc8x8850ajmq5ndomhf&redirect=true)
 
 [web]: https://github.com/kapirath28
 [instagram]: https://www.instagram.com/rainakapirath?igsh=MWg5eHIwMzl3anNzZQ==
