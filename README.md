@@ -1,65 +1,59 @@
-<h1> Hi, I'm Kapirath Raina! <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="30" height="30"></h1>
-<img align='right' src="https://media.giphy.com/media/Tgmo1j3zfzQFVzU8Qz/giphy.gif" width="200">
-<p><em>Pursuing Information Technology Engineering<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently working on <a href="https://www.java.com/en/download/help/whatis_java.html">JAVA (Backend)</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h1>Hi, I'm Kapirath 👋</h1>
 
-[![Twitter: Kapirath raina](https://img.shields.io/twitter/follow/kapsayshieeee?style=social)](https://x.com/kapsayshieeee)
-[![Linkedin: Kapirath Raina](https://img.shields.io/badge/-Kapirathraina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kapirath-raina-b893a2255/)](https://www.linkedin.com/in/kapirath-raina-b893a2255/)
-[![GitHub Kapirath28](https://img.shields.io/github/followers/kapirath28?label=follow&style=social)](https://github.com/kapirath28)
+<p>
+  A developer, open-source contributor, and lifelong learner.
+</p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> there's more about me...  
+---
 
-```java
-public class Kapirath {
-    private String pronouns = "he/him";
-    private List<String> code = Arrays.asList("C", "C++", "JAVA", "Python", "Kotlin", "BASH", "HTML");
-    private List<String> askMeAbout = Arrays.asList("android", "linux", "kernel", "aosp", "app dev");
-    private String currentFocus = "Data Structures and SQL";
-    private String funFact = "your girl is beautiful";
+## 👨‍💻 About Me
 
-public static void main(String[] args) {
-        Kapirath Kapirath = new Kapirath();
-        Kapirath.printDetails();
-   }
-}
-```
+- 🎓 Junior year IT Engineering Student  
+- 💻 Currently working with **Java, Spring Boot, React.js**  
+- 🌍 Open to internship or freelance opportunities  
+- 🧠 Learning about **System Design**, **DevOps**, and **AI tools**   
 
-### Tech Stack:
+---
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][web]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][web]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />][web]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][web]
-[<img align="left" alt="Linux" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226772.png" />][web]
-[<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][web]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/179/179323.png" />][web]
+## 🛠️ Tech Stack
 
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-</br>
-</br>
-</br>
+**Frameworks & Libraries:**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=java&logoColor=white)
+![H2](https://img.shields.io/badge/H2%20Database-00599C?style=flat&logo=h2&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" height="30"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'll be happy to connect with you more!</b> :)</em>
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-3C3C3C?style=flat&logo=visual-studio-code&logoColor=white)
 
+---
 
-### Let's connect:
+## 📈 GitHub Stats
 
-[<img align="left" alt="Linkedin" width="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
-[<img align="left" alt="Instagram" width="32" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
-[<img align="left" alt="Twitter" width="32" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kapirath28&show_icons=true&theme=tokyonight" alt="kapirath28's GitHub stats" />
+</p>
 
-</br>
-</br>
-</br>
+---
 
-</b></b></b></b>
+## 📬 Connect With Me
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/kapirath-raina/)
+- 🐦 [Twitter](https://x.com/kapirathraina)
+- ✉️ Email: kapirathraina@gmail.com
 
-###  Now playing on Kapirath's Spotify🎧: 
+---
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajmcgxvc8x8850ajmq5ndomhf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=ff0026)](https://spotify-github-profile.vercel.app/api/view?uid=ajmcgxvc8x8850ajmq5ndomhf&redirect=true)
-
-[web]: https://github.com/kapirath28
-[instagram]: https://www.instagram.com/rainakapirath?igsh=MWg5eHIwMzl3anNzZQ==
-[linkedin]: (https://www.linkedin.com/in/kapirath-raina-b893a2255/)
-[twitter]: https://x.com/kapsayshieeee
+_Thanks for visiting my profile! Let's build something awesome together 🚀_
